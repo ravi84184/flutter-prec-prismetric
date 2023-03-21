@@ -35,7 +35,7 @@ dependencies:
   get_it: ^6.1.1
 
   # Dio remote API
-  dio: ^4.0.0
+  dio: ^5.0.3
 
   auto_route: ^1.0.2
   # Google map
